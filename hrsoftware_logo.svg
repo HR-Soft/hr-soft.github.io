@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <rect width="140" height="140" rx="28" fill="#12140f"></rect>
+  <polygon points="70,26 108,48 108,92 70,114 32,92 32,48" fill="none" stroke="#f4f4f0" stroke-width="7"></polygon>
+  <text x="59" y="86" font-family="Helvetica Neue, Arial, sans-serif" font-weight="800" font-size="38" fill="#f4f4f0" text-anchor="middle">H</text>
+  <text x="83" y="86" font-family="Helvetica Neue, Arial, sans-serif" font-weight="800" font-size="38" fill="#3fbf5a" text-anchor="middle">R</text>
+</svg>
